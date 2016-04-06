@@ -1,0 +1,19 @@
+{
+  "name": "lambdaweb",
+  "version": "0.0.1",
+  "description": "our website development team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lambdasolo/lambdaweb.nz.git"
+  },
+  "author": "yizhan wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lambdasolo/lambdaweb.nz/issues"
+  },
+  "homepage": "https://github.com/lambdasolo/lambdaweb.nz#readme"
+}
